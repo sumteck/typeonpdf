@@ -1,0 +1,21 @@
+{
+  "name": "TypeOnpdf",
+  "short_name": "TypeOnpdf",
+  "description": "All PDF Form Filler - Fill PDF forms without printing",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "./logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
